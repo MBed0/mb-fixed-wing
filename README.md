@@ -1,1 +1,9 @@
-<iframe src="MB_FlyingWing_Assembly_Guide.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+<table>
+  <tr>
+    <td>
+      <a href="MB_FlyingWing_Assembly_Guide.pdf" target="_blank">
+        <img src="https://shields.io" alt="PDF Kılavuzu">
+      </a>
+    </td>
+  </tr>
+</table>
